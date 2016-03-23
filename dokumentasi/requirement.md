@@ -20,9 +20,7 @@
 ## Software dan *Tools* yang Digunakan
   * Website
     + Notepad++
-    + Wordpress css framework(?)
-    + xxxx
-    + xxxxx
+    + Wordpress css framework
     + Web Browser (Chrome/Firefox)
   * Database
     + MySQL

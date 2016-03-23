@@ -29,7 +29,7 @@
   * Design
     + Adobe Photoshop
   * Hosting
-    + Web Hosting (000webhost)
+    + Web Hosting (idhostinger)
     
 ## Kebutuhan untuk mengakses website
   * Web Browser

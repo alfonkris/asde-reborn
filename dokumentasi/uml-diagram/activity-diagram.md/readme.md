@@ -1,2 +1,0 @@
-
-** Folder ini akan dihapus

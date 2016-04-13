@@ -17,12 +17,16 @@ new edit
 [Explanation about the project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics.]
 
 (who, why, how, what, where, when)
++ [User Manual](https://github.com/farfarida)
 
-## Technical Documentation
-
-[How to develop, build, and use it.]
-
---------------------------------------------------
+## Technical Documentatio
++ [Requirement](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/requirement.md)
++ [System Definition](https://github.com/farfarida)
++ [System Requirement Specification](https://github.com/farfarida)
++ [Sprint Document](https://github.com/farfarida)
++ [Master Test Plan](https://github.com/farfarida)
++ [Test Skenarion](https://github.com/farfarida)
++ [Hasil Pengujian](https://github.com/farfarida)
 
 ## General Notes
 
@@ -39,6 +43,10 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 + Project Presentation
 
 ### Development Process
+
++ Milestones
+  + Development Milestone
+  + Testing Milestone
 
 + Ideation
   + Choose an idea then present it.

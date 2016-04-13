@@ -14,13 +14,10 @@ Website P2C merupakan website yang dibangun dengan tujuan sebagai media informas
 --------------------------------------------------
 
 ## User Documentation
-new edit
-[Explanation about the project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics.]
+Project ini memiliki sebuah dokumentasi pengguna, yaitu [User Manual](https://github.com/farfarida)
 
-(who, why, how, what, where, when)
-+ [User Manual](https://github.com/farfarida)
-
-## Technical Documentatio
+## Technical Documentation
+Project ini memiliki 7 dokumentasi teknis, yaitu:
 + [Requirement](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/requirement.md)
 + [System Definition](https://github.com/farfarida)
 + [System Requirement Specification](https://github.com/farfarida)
@@ -29,21 +26,7 @@ new edit
 + [Test Skenarion](https://github.com/farfarida)
 + [Hasil Pengujian](https://github.com/farfarida)
 
-## General Notes
-
-For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. This README is a template from <https://github.com/gunadarma-academy/asde-project>.
-
-### Materials
-
-+ Introduction
-+ Project Management
-+ Software Design
-+ Design Analysis
-+ Evaluation
-+ Software Quality
-+ Project Presentation
-
-### Development Process
+## Development Process
 
 + Milestones
   + Development Milestone
@@ -60,3 +43,8 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 + Presentation
   + Present the result to the class.
   + The winner will be chosen.
+
+
+## General Notes
+
+For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. This README is a template from <https://github.com/gunadarma-academy/asde-project>.

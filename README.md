@@ -22,8 +22,8 @@ Project ini memiliki 7 dokumentasi teknis, yaitu:
 + [System Definition](https://github.com/farfarida)
 + [System Requirement Specification](https://github.com/farfarida)
 + [Sprint Document](https://github.com/farfarida)
-+ [Master Test Plan](https://github.com/farfarida)
-+ [Test Skenarion](https://github.com/farfarida)
++ [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Master%20Test%20Plan%20P2C.pdf)
++ [Test Skenarion](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Skenario%20Test%20P2C.pdf)
 + [Hasil Pengujian](https://github.com/farfarida)
 
 ## Development Process

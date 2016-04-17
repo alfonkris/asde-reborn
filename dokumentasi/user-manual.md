@@ -1,3 +1,3 @@
 coba insert image...
 
-![Alt text](https://github.com/gunadarma-academy/asde-reborn/tree/master/dokumentasi/burndown/burndown_1.png "Optional title")
+![](https://github.com/gunadarma-academy/asde-reborn/tree/master/dokumentasi/burndown/burndown_1.png?raw=true "Optional title")

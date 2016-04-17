@@ -14,17 +14,17 @@ Website P2C merupakan website yang dibangun dengan tujuan sebagai media informas
 --------------------------------------------------
 
 ## User Documentation
-Project ini memiliki sebuah dokumentasi pengguna, yaitu [User Manual](https://github.com/farfarida)
+Project ini memiliki sebuah dokumentasi pengguna, yaitu [User Manual](https://github.com)
 
 ## Technical Documentation
 Project ini memiliki 7 dokumentasi teknis, yaitu:
 + [Requirement](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/requirement.md)
-+ [System Definition](https://github.com/farfarida)
-+ [System Requirement Specification](https://github.com/farfarida)
-+ [Sprint Document](https://github.com/farfarida)
++ [System Definition](https://github.com)
++ [System Requirement Specification](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/System%20Requirement%20Specification.pdf)
++ [Sprint Document](https://github.com)
 + [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Master%20Test%20Plan%20P2C.pdf)
 + [Test Skenarion](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Skenario%20Test%20P2C.pdf)
-+ [Hasil Pengujian](https://github.com/farfarida)
++ [Hasil Pengujian](https://github.com)
 
 ## Development Process
 

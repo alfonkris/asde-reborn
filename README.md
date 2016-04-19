@@ -1,5 +1,7 @@
 # Website P2C
 
+[Gitter](https://gitter.im/gunadarma-academy/asde-reborn)
+
 Website P2C merupakan website yang dibangun dengan tujuan sebagai media informasi mengenai ketinggian air di sungai Cikeas, Cileungsi dan Bekasi. Website P2C ini merupakan tahap pengembangan dari grup chat komunitas p2c yang sudah ada dengan keterbatasan hanya 250 member yang dapat bergabung sehingga masih banyak masyarakat di sekitar sungai Cikeas, Cileungsi, dan Bekasi yang tidak dapat bergabung dan menerima informasi dari grup chat tersebut.. Untuk mengatasi keterbatasan tersebut maka dibuatlah website P2C dengan mengadopsi fitur-fitur yang sudah ada pada grup chat dan ditambah dengan fitur lainnya yang dapat memudahkan masyarakat untuk berbagi informasi. 
 
 

@@ -10,6 +10,6 @@ Keterangan :
 + 5 = [Persetujuan Pengembangan](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/burndown/burndown_5.png)
 + 6 = [Pengumpulan Data](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/burndown/burndown_6.png)
 + 7 = [Pembuatan Website](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/burndown/burndown_7.png)
-+ 8 = Dokumentasi Website
-+ 9 = Pengujian
++ 8 = [Dokumentasi Website](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/burndown/burndown_8.png)
++ 9 = [Pengujian](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/burndown/burndown_9.png)
 + 10 = Presentasi

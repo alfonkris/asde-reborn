@@ -21,7 +21,7 @@ Project ini memiliki sebuah dokumentasi pengguna, yaitu [User Manual](https://gi
 ## Technical Documentation
 Project ini memiliki 7 dokumentasi teknis, yaitu:
 + [Requirement](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/requirement.md)
-+ [System Definition](https://github.com/gunadarma-academy/asde-reborn/)
++ [System Definition](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/SystemDefinitionP2C.pdf)
 + [System Requirement Specification](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/System%20Requirement%20Specification.pdf)
 + [Sprint Document](https://github.com/gunadarma-academy/asde-reborn/tree/master/dokumentasi/sprint-table)
 + [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Master%20Test%20Plan%20P2C.pdf)

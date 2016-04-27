@@ -25,7 +25,7 @@ Project ini memiliki 7 dokumentasi teknis, yaitu:
 + [System Requirement Specification](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/System%20Requirement%20Specification.pdf)
 + [Sprint Document](https://github.com/gunadarma-academy/asde-reborn/tree/master/dokumentasi/sprint-table)
 + [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Master%20Test%20Plan%20P2C.pdf)
-+ [Test Skenario](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Skenario%20Test%20P2C.pdf)
++ [Test Skenario](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/SkenarioTestP2C.pdf)
 + [Hasil Pengujian](https://github.com/gunadarma-academy/asde-reborn-test/tree/master/testing)
 
 ## Development Process

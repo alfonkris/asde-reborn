@@ -33,6 +33,3 @@
   * Web Browser
   * Koneksi Internet
   
-## Harga Website
-  * *in progress*
-    

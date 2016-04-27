@@ -10,7 +10,7 @@ Website P2C merupakan website yang dibangun dengan tujuan sebagai media informas
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
 | Nur Farida Irmawati | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
-| Freddy Avriando | freddyavriando@gmail.com | [@freddyarviando](https://github.com/freddyarviando)
+| Freddy Arviando | freddyarviando@gmail.com | [@freddyarviando](https://github.com/freddyarviando)
 | Arum Kusuma Wardani | arum.kusumawardani@ymail.com | [@arumkw](https://github.com/arumkw)
 | Ika Pretty Siregar | ika.prettys@gmail.com | [@ikaprtys](https://github.com/ikaprtys)
 --------------------------------------------------

@@ -16,7 +16,7 @@ Website P2C merupakan website yang dibangun dengan tujuan sebagai media informas
 --------------------------------------------------
 
 ## User Documentation
-Project ini memiliki sebuah dokumentasi pengguna, yaitu [User Manual](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/user-manual/User%20Manual%20Pengunjung.pdf)
+Project ini memiliki sebuah dokumentasi untuk pengguna dan admin, yaitu [User Manual](https://github.com/gunadarma-academy/asde-reborn/blob/master/dokumentasi/user-manual/User%20Manual%20Pengunjung.pdf)
 
 ## Technical Documentation
 Project ini memiliki 7 dokumentasi teknis, yaitu:
